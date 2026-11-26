@@ -49,7 +49,7 @@ Only 45 observations, a short 5-year hold-out, national totals only, and unclear
 
 - `PROJECT ANALYSIS.ipynb`: the full analysis in Python
 - Charts (PNG): time plots, scatter plots, growth chart, ACF and PACF
-- `Project_Rebuilt.docx`: the complete project report
+- `Project 1-5 (Completed) (1).pdf`: the complete project report
 
 ## How to run
 
